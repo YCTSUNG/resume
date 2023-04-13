@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+
+
+.firstblock{
+    height: 200px;
+    background-color: rgb(7, 7, 73);
+    background-image: url(./wallpaperstocknetsunset\ at\ sea\ wallpapers\ 33553\ 1920x1080jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+.profile-pic{
+width: 160px;
+height: 160px;
+border-radius: 50%;
+background-color: azure;
+background-image: url(https://s.eximg.jp/exnews/feed/Inside/Inside_134949_1.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+margin-top: -15px;
+}
+
+.name{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 103%;
+}
+
+.details{
+    font-size: 10px;
+}
+
+.secondblock{
+    margin-top: 40px;
+    margin-left: 20%;
+}
+
+hr{
+    width: 80%;
+    
+}
+
+.thirdblock{
+    margin-top: 40px;
+    margin-left: 20%;
+}
+
+.fourthblock{
+    width: auto;
+    height: 270px;
+    background-color: rgb(7, 7, 73);
+    padding-top: 20px;
+}
+
+.genre{
+    color: azure;
+    margin-left: 20%;
+}
+.details3{
+    color: azure;
+    margin-left: 20%;
+}
+
+.fifthblock{
+    height: 180px;
+    padding-top: 20px;
+    margin-left: 20%;
+}
+
+.line{
+    width: 975px;
+    height: 2px;
+    background-color: azure;
+    margin-left: 20%;
+}
